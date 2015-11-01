@@ -6,3 +6,5 @@ The government of the Smarticon city (name withheld) commissioned a survey and c
 
 ##Problem Description:
 With the survey, Smarticon government has access to more than 13000 responses. But scaling up the survey to every citizen is very cost prohibitive in nature. Hence, it was required to build a model to predict the happiness levels of the citizens and then build policies on those classes. 
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/pronojitsaha/Multi-Class-Happiness-Classification)
