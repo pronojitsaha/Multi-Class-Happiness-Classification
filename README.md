@@ -9,7 +9,6 @@ With the survey, Smarticon government has access to more than 13000 responses. B
 
 <br>
 ##Data Set
--------------
 |Variable|Description
 |---|---
 |ID			                |Unique ID
